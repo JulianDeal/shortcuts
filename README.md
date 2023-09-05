@@ -192,7 +192,7 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 
 Browser-Extension mit Vim-like Commands. Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können. Super mächtiges Tool.
 
-## Beispile
+## Beispiele
 
 Hier ein Ausschnitt (Achtung, )
 - **Scrollen:** `j`, `k`
