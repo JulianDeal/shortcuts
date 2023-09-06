@@ -233,7 +233,7 @@ Klick auf Vimium-Logo -> Options
 
 - Custom key mappings:
     - `map e passNextKey` in Liste eingfügen
-        - Erklärung: Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet nun das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißenb Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
+        - Erklärung: Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet zwar das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißenb Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
 -  Characters used for link hints:
     - `f` von den Buchstaben entfernen
         - Erklärung: Hat man mit `f` die Link Hints geöffnet, kann man diese auch genauso schnell wieder mit `f` ausblenden, stattt `<Esc>` zu drücken. Der Buchstabe `f` wird nicht mehr in den Link Hints benutzt.
