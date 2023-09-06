@@ -208,20 +208,22 @@ Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können
 
 Hier ein Ausschnitt (Achtung, case sensitive!):
 - **Scrollen:** `j`, `k`
-- **Schnell scrollen:** `u`, `k`
+- **Schnell scrollen:** `d`, `u`
+- **Anfang Seite:** `gg`
+- **Ende Seite:** `G`
 - **Link aufrufen:** `f`
 - **Zurück/Vor:** `H`, `L`
 - **Voriger/Nächster Tab:** `J`, `K`
 - **Tab verschieben:** `<<`, `>>`
-- **Anfang Seite:** `gg`
-- **Ende Seite:** `G`
 - **Insert Mode** (keine Tastendrücke abfangen): `i`
+- **Eingabe abbrechen**: `<Esc>`
 
 Alle Commands sind auch multiplizierbar:
 
 `3H` -> 3 mal zurück
+`12<<` -> 12 mal den Tab nach links verschieben  
 
-- Alle Commands sehen: `?`
+- Liste aller Commands sehen: `?`
 
 ### Tipps
 
@@ -229,7 +231,7 @@ Leider ist meiner Meinung nach die Default-Config nicht perfekt.
 
 Ich empfehle drei kleine Anpassungen:
 
-Klick auf Vimium-Logo -> Options
+Klick auf `Vimium-Logo` -> `Options`
 
 - Custom key mappings:
     - `map e passNextKey` in Liste eingfügen
@@ -254,4 +256,4 @@ Auf manchen Seiten braucht man die Tastatur und kann auf Vimium verzichten, (z. 
 - Klick auf Vimium-Logo
 - 'Save Changes'
 
-Nun ist die Seite geblacklistet. 
+Nun ist die Seite geblacklistet und ihr könnt sie ganz normal nutzen.
