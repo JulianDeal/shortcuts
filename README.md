@@ -37,29 +37,35 @@ Ergänzungen sind herzlich willkommen!
 
 ## Windows
 
+### Explorer 
 - **Explorer:** `Win + E`
 - **Neuer Ordner:** `Strg + Shift + N`
 - **Umbenennen:** `F2`
+- **Löschen (Papierkorb)**: `Entf`
+- **Löschen (permanent)**: `Shift + Entf`
+
+### Sonstiges
 - **Einstellungen:** `Win + I`
+- **Task Manager:** `Strg + Shift + Esc`
+- **Fenster schließen**: `Alt + F4`
 - **Desktop anzeigen:** `Win + D`
 - **Fenster positionieren:** `Win + Pfeiltasten`
 - **Fenster auf anderen Bildschirm verschieben:** `Win + Shift + Pfeiltasten`
 - **Fensterwechsel:** `Alt + Tab`
 - **Task View:** `Win + Tab`
-- **Desktop-Wechsel:** `Strg + Alt + Pfeil (R/L)` (davor Desktop erstellen in Task View)
+- **Desktop-Wechsel:** `Strg + Alt + Pfeil (R/L)` (davor neuen Desktop erstellen in Task View, oben)
 - **Programm suchen:** `Win, [Suchbegriff eingeben]`
-- **Task Manager:** `Strg + Shift + Esc`
 - **Emojis:** `Win + .`
 - **Wireless Display**: `Win + K` (K wie Konnekt)
 - **Lupe**: `Win + L` (L wie Lupe)
 
 
-- **1-tes Programm in Taskleiste:** `Win + 1`
-- **{x}-tes Programm in Taskleiste:** `Win + {x}`
+- **1-tes Programm in Taskleiste öffnen:** `Win + 1`
+- **{x}-tes Programm in Taskleiste öffnen:** `Win + {x}`
 
 ### Anmerkung
 
-Hier lohnt es sich, oft genutzte Programme an die Taskleiste anzuheften, dann sind sie sofort über die Tastatur erreichbar und immer an der richtigen Stelle.
+Beim letzten COmmand lohnt es sich, oft genutzte Programme an die Taskleiste anzuheften ('Pin to taskbar') und dann zu verschieben, dann sind sie sofort über die Tastatur erreichbar und immer an der richtigen Stelle.
 
 #### Beispiel für Taskleiste:
 
