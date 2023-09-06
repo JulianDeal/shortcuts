@@ -4,11 +4,11 @@ Tastenkombinationen, lernt man nicht auswendig, man verinnerlicht sie durch Benu
 
 Das sind Tastenkombinationen, die ich mir über die Jahre angeeignet habe. Sie sind nicht vollständig. Ich hab mal ein paar runtergeschrieben, die mir spontan eingefallen sind.
 
-Lernt nicht alle auf einmal, das wird nicht funktionieren. Aber probiert jeden mal aus.
+**Lernt nicht alle auf einmal, das wird nicht funktionieren. Aber probiert jeden mal aus.**
 
 Und manchmal bin ich zu faul zum Denken und nutze auch die Maus.
 
-Vorschläge
+Ergänzungen sind herzlich willkommen!
 
 ## Allgemein
 
