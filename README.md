@@ -10,7 +10,7 @@ Und manchmal bin ich zu faul zum Denken und nutze auch die Maus.
 
 Ergänzungen sind herzlich willkommen!
 
-## Allgemein
+## Absolute Basics
 
 - **Einzelne Zeichen/Zeilen:** `Pfeiltasten`
 - **Zu Anfang (der Zeile):** `Pos1`
@@ -32,6 +32,8 @@ Ergänzungen sind herzlich willkommen!
 - **Zeile einfügen:** `Strg + V` (wenn nichts ausgewählt ist)
 - **Zeile löschen:** `Strg + X` (wenn nichts ausgewählt ist)
 - **Alles auswählen:** `Strg + A`
+- **Speichern**: `Strg + S`
+- **Öffnen**: `Strg + O`
 
 ## Windows
 
@@ -138,16 +140,16 @@ Hier lohnt es sich, oft genutzte Programme an die Taskleiste anzuheften, dann si
 
 ## Typographie
 
-Für Schule/Kundenkontakt wirkt richtige Typographie professioneller. In Word erleichtert es euch die Arbeit ungemein (z.B. Seitenumbruch).
+Für Kundenkontakt oder UI wirkt richtige Typographie professioneller. In Word erleichtert es euch die Arbeit ungemein (z.B. Seitenumbruch).
 
 Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 
-- **Gedankenstrich/Viertelgeviertstrich –**: Alt + 0150 (Vergleich "normaler" Strich (Achtelgeviertstrich): - – )
-- **Ellipse …**: Alt + 0133 (Super wichtig, wenn man Sachen in UI abkürzt, weil es nur ein Zeichen einnimmt: Vergleich ... …)
+- **Gedankenstrich/Viertelgeviertstrich –**: `Alt + 0150` (Vergleich "normaler" Strich (Achtelgeviertstrich): - – )
+- **Ellipse …**: `Alt + 0133` (Super wichtig, wenn man Sachen in UI abkürzt, weil es nur ein Zeichen einnimmt: Vergleich ... …)
 
 ### Word/Mail
 - **Absatzumbruch:** `Enter`
-- **Zeilenumbruch:** `Shift + Enter`
+- **Zeilenumbruch:** `Shift + Enter` (oft auch genutzt, wenn mehrzeilige Eingaben möglich sind (z. B. in Chats), aber `Enter` abschickt, statt einen Umbruch zu machen)
 - **Seitenumbruch:** `Strg + Enter`
 
 # Sonstiges
@@ -165,9 +167,9 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 - Einfacherer Zugang zu Sonderzeichen: Zeichen wie `~`, `|`, und `\` sind direkt erreichbar.
 - Schnell zu lernen
 - **Tastaturlayoutwechsel:** `Win + Leer` || `Alt + Shift`
-    - Tipp: Alt + Shift
+    - Tipp: Alt + Shift in Windows Einstellungen deaktivieren, die kollidieren mit manchen Keyboard-Shortcuts
 
-### Noch besser: US International
+### Noch besser: "US International"-Layout
 
 - Mit `US International` sind alle deutschen Sonderzeichen möglich:
   - `"u` -> `ü`
@@ -235,7 +237,7 @@ Klick auf `Vimium-Logo` -> `Options`
 
 - Custom key mappings:
     - `map e passNextKey` in Liste eingfügen
-        - Erklärung: Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet zwar das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißen Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
+        - Erklärung: Aktiviert Weiterleitung von einem Tastendruck/einer Tastenkomination. Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet zwar das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißen Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
 -  Characters used for link hints:
     - `f` von den Buchstaben entfernen
         - Erklärung: Hat man mit `f` die Link Hints geöffnet, kann man diese auch genauso schnell wieder mit `f` ausblenden, statt `<Esc>` zu drücken. Der Buchstabe `f` wird nicht mehr in den Link Hints benutzt.
