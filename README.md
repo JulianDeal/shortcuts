@@ -153,10 +153,13 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 - **[Gedankenstrich/Halbgeviertstrich](https://de.wikipedia.org/wiki/Halbgeviertstrich) `–`**: `Alt + 0150` (Vergleich Viertelgeviertstrich ("normaler" Strich): `-` `–` )
 - **Ellipse `…`**: `Alt + 0133` (Super wichtig, wenn man Sachen in UI abkürzt, weil es nur ein Zeichen einnimmt: Vergleich `...` `…`)
 
-### Word/Mail
+### WYSIWIG/Word/Mail
 - **Absatzumbruch:** `Enter`
 - **Zeilenumbruch:** `Shift + Enter` (oft auch genutzt, wenn mehrzeilige Eingaben möglich sind (z. B. in Chats), aber `Enter` abschickt, statt einen Umbruch zu machen)
 - **Seitenumbruch:** `Strg + Enter`
+- **Fettgedruckt:** `Strg + B`
+- **Kursiv:** `Strg + I`
+- **Unterstrichen:** `Strg + U`
 
 # Sonstiges
 ## Maus
@@ -243,10 +246,10 @@ Klick auf `Vimium-Logo` -> `Options`
 
 - Custom key mappings:
     - `map e passNextKey` in Liste eingfügen
-        - Erklärung: Aktiviert Weiterleitung von einem Tastendruck/einer Tastenkomination. Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet zwar das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißen Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
+        - **Erklärung**: Aktiviert Weiterleitung von einem Tastendruck/einer Tastenkomination. Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet zwar das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißen Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
 -  Characters used for link hints:
     - `f` von den Buchstaben entfernen
-        - Erklärung: Hat man mit `f` die Link Hints geöffnet, kann man diese auch genauso schnell wieder mit `f` ausblenden, statt `<Esc>` zu drücken. Der Buchstabe `f` wird nicht mehr in den Link Hints benutzt.
+        - **Erklärung**: Hat man mit `f` die Link Hints geöffnet, kann man diese auch genauso schnell wieder mit `f` ausblenden, statt `<Esc>` zu drücken. Der Buchstabe `f` wird nicht mehr in den Link Hints benutzt.
 - CSS for Vimium UI:
     - CSS vom ersten Block ändern auf
     -   ```css
@@ -255,7 +258,7 @@ Klick auf `Vimium-Logo` -> `Options`
             background: #FFF785;
         }
         ```
-        - Erklärung: Die Default Gradients sehen absolut augenkrebsig aus. Jetzt haben wir schöne Link hints.
+        - **Erklärung**: Die Default Gradients sehen absolut augenkrebsig aus. Jetzt haben wir schöne Link Hints.
 
 
 ### Vimium auf Seite deaktivieren:
