@@ -190,6 +190,8 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 
 ## Vimium: The hacker's browser
 
+[philc/vimium: The hacker's browser.](https://github.com/philc/vimium)
+
 Browser-Extension mit Vim-like Commands. Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können. Super mächtiges Tool.
 
 ## Beispiele
