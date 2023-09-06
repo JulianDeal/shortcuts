@@ -198,7 +198,7 @@ Browser-Extension mit Vim-like Commands. Man braucht kein Vim können, ich habe 
 
 ## Beispiele
 
-Hier ein Ausschnitt (Achtung, )
+Hier ein Ausschnitt (Achtung, case sensitive!)
 - **Scrollen:** `j`, `k`
 - **Schnell scrollen:** `u`, `k`
 - **Link aufrufen:** `f`
