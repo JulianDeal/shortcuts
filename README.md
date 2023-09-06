@@ -220,8 +220,8 @@ Hier ein Ausschnitt (Achtung, case sensitive!):
 
 Alle Commands sind auch multiplizierbar:
 
-`3H` -> 3 mal zurück
-`12<<` -> 12 mal den Tab nach links verschieben  
+- `3H` -> 3 mal zurück
+- `12<<` -> 12 mal den Tab nach links verschieben  
 
 - Liste aller Commands sehen: `?`
 
