@@ -144,7 +144,7 @@ Für Kundenkontakt oder UI wirkt richtige Typographie professioneller. In Word e
 
 Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 
-- **[Gedankenstrich/Halbgeviertstrich](https://de.wikipedia.org/wiki/Halbgeviertstrich) –**: `Alt + 0150` (Vergleich "normaler" Strich (Viertelgeviertstrich): - – )
+- **[Gedankenstrich/Halbgeviertstrich](https://de.wikipedia.org/wiki/Halbgeviertstrich) –**: `Alt + 0150` (Vergleich Viertelgeviertstrich ("normaler" Strich): - – )
 - **Ellipse …**: `Alt + 0133` (Super wichtig, wenn man Sachen in UI abkürzt, weil es nur ein Zeichen einnimmt: Vergleich ... …)
 
 ### Word/Mail
