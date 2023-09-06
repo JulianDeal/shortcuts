@@ -2,7 +2,13 @@
 
 Tastenkombinationen, lernt man nicht auswendig, man verinnerlicht sie durch Benutzen, weil es schneller geht, als jedes mal zur Maus zur greifen. Probiert rum, was euch gefällt, ich nuzte auch nicht alle, aber gut 80%.
 
+Das sind Tastenkombinationen, die ich mir über die Jahre angeeignet habe. Sie sind nicht vollständig. Ich hab mal ein paar runtergeschrieben, die mir spontan eingefallen sind.
+
+Lernt nicht alle auf einmal, das wird nicht funktionieren. Aber probiert jeden mal aus.
+
 Und manchmal bin ich zu faul zum Denken und nutze auch die Maus.
+
+Vorschläge
 
 ## Allgemein
 
@@ -194,11 +200,13 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 
 [philc/vimium: The hacker's browser.](https://github.com/philc/vimium)
 
-Browser-Extension mit Vim-like Commands. Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können. Super mächtiges Tool.
+Browser-Extension mit Vim-like Commands, anders gesagt: Den Browser (fast) nur mit Tastatur bedienen können. Besonders praktisch, wenn man nur ein Laptop mit Trackpad hat, aber auch sonst praktisch. 
 
-## Beispiele
+Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können. Super mächtiges Tool.
 
-Hier ein Ausschnitt (Achtung, case sensitive!)
+### Beispiele
+
+Hier ein Ausschnitt (Achtung, case sensitive!):
 - **Scrollen:** `j`, `k`
 - **Schnell scrollen:** `u`, `k`
 - **Link aufrufen:** `f`
@@ -207,6 +215,7 @@ Hier ein Ausschnitt (Achtung, case sensitive!)
 - **Tab verschieben:** `<<`, `>>`
 - **Anfang Seite:** `gg`
 - **Ende Seite:** `G`
+- **Insert Mode** (keine Tastendrücke abfangen): `i`
 
 Alle Commands sind auch multiplizierbar:
 
@@ -214,12 +223,35 @@ Alle Commands sind auch multiplizierbar:
 
 - Alle Commands sehen: `?`
 
+### Tipps
+
 Leider ist meiner Meinung nach die Default-Config nicht perfekt.
 
-Es gibt 3 kleine Anpassungen:
+Ich empfehle drei kleine Anpassungen:
 
-** TODO **
+Klick auf Vimium-Logo -> Options
+
+- Custom key mappings:
+    - `map e passNextKey` in Liste eingfügen
+        - Erklärung: Besonders nützlich bei Seiten wie YouTube. Da Vimium die meisten Keys abfängt, geht zum Beispiel `F` wie Follbild nicht. Vimiums insert-Mode (`i`) leitet nun das `F` an YouTube weiter, hinterlässt einen störenden kleinen weißenb Balken am rechten unteren Rand, dieser geht aber nur mit `<Esc>` weg, das wiederum auch den Vollbild schließt. Also drückt man einfach `e, f`, dann geht der kleine Balken auch sofort weg.
+-  Characters used for link hints:
+    - `f` von den Buchstaben entfernen
+        - Erklärung: Hat man mit `f` die Link Hints geöffnet, kann man diese auch genauso schnell wieder mit `f` ausblenden, stattt `<Esc>` zu drücken. Der Buchstabe `f` wird nicht mehr in den Link Hints benutzt.
+- CSS for Vimium UI:
+    - CSS vom ersten Block ändern auf
+    -   ```css
+        div > .vimiumHintMarker {
+            /* linkhint boxes */
+            background: #FFF785;
+        }
+        ```
+        - Erklärung: Die Default Gradients sehen absolut augenkrebsig aus. Jetzt haben wir schöne Link hints.
+
 
 ### Vimium auf Seite deaktivieren:
 
-** TODO **
+Auf manchen Seiten braucht man die Tastatur und kann auf Vimium verzichten, (z. B. Spiele), daher:
+- Klick auf Vimium-Logo
+- 'Save Changes'
+
+Nun ist die Seite geblacklistet. 
