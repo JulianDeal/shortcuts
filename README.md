@@ -155,7 +155,7 @@ Alle Zahlen sind auf dem altivertem Numpad einzugeben.
 # Sonstiges
 ## Maus
 
-- **Rechtsklick auf Icon in Taskleiste -> Projekt schnell öffnen**
+- **Rechtsklick auf Icon in Taskleiste (z. B. VS Code)  -> Projekt schnell öffnen**
 
 ## Allgemeine Empfehlung zum Coden: US-Layout
 
