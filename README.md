@@ -1,6 +1,8 @@
 # Tastenkombis (die nützlichen)
 
-Tastenkombinationen, lernt man nicht auswendig, man verinnerlicht sie durch Benutzen, weil es schneller geht, als jedes mal zur Maus zur greifen. Probiert rum, was euch gefällt, ich nuzte auch nicht alle, aber gut 80%, und manchmal bin ich zu faul zum Denken und nutze auch die Maus.
+Tastenkombinationen, lernt man nicht auswendig, man verinnerlicht sie durch Benutzen, weil es schneller geht, als jedes mal zur Maus zur greifen. Probiert rum, was euch gefällt, ich nuzte auch nicht alle, aber gut 80%.
+
+Und manchmal bin ich zu faul zum Denken und nutze auch die Maus.
 
 ## Allgemein
 
