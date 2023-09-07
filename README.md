@@ -233,7 +233,9 @@ Hier ein Ausschnitt (Achtung, case sensitive!):
 - **Insert Mode** (alle Tasten an Website weitergeben): `i`
 - **Eingabe abbrechen**: `<Esc>`
 - **Suchen:** `/` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx!)
-- **Reload Tab:** `r` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx!)
+- **Reload Tab:** `r`
+- **Tab schließen:** `x`
+- **Geshlossenen Tab wieder öffnen:** `X`
 - **Tab duplizieren**: `yt`
 
 
