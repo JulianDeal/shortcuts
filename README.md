@@ -34,6 +34,8 @@ Ergänzungen sind herzlich willkommen!
 - **Alles auswählen:** `Strg + A`
 - **Speichern**: `Strg + S`
 - **Öffnen**: `Strg + O`
+- **Rückgängig**: `Strg + Z`
+- **Wiederholen**: `Strg + Y` (in manchen Programmen auch `Strg + Shift + Z`)
 
 ## Windows
 
@@ -58,6 +60,7 @@ Ergänzungen sind herzlich willkommen!
 - **Emojis:** `Win + .`
 - **Wireless Display**: `Win + K` (K wie Konnekt)
 - **Lupe**: `Win + L` (L wie Lupe)
+- **Zoomen**: `Win + +` und `Win + -` (diesmal richtig)
 
 
 - **1-tes Programm in Taskleiste öffnen:** `Win + 1`
@@ -220,14 +223,19 @@ Man braucht kein Vim können, ich habe es jahrelang genutzt, ohne Vim zu können
 Hier ein Ausschnitt (Achtung, case sensitive!):
 - **Scrollen:** `j`, `k`
 - **Schnell scrollen:** `d`, `u`
-- **Anfang Seite:** `gg`
-- **Ende Seite:** `G`
 - **Link aufrufen:** `f`
 - **Zurück/Vor:** `H`, `L`
+- **Oberstes Eingabefeld fokussieren**: `gi`
+- **Anfang Seite:** `gg`
+- **Ende Seite:** `G`
 - **Voriger/Nächster Tab:** `J`, `K`
 - **Tab verschieben:** `<<`, `>>`
-- **Insert Mode** (keine Tastendrücke abfangen): `i`
+- **Insert Mode** (alle Tasten an Website weitergeben): `i`
 - **Eingabe abbrechen**: `<Esc>`
+- **Suchen:** `/` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx!)
+- **Reload Tab:** `r` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx!)
+- **Tab duplizieren**: `yt`
+
 
 Alle Commands sind auch multiplizierbar:
 
@@ -258,7 +266,7 @@ Klick auf `Vimium-Logo` -> `Options`
             background: #FFF785;
         }
         ```
-        - **Erklärung**: Die Default Gradients sehen absolut augenkrebsig aus. Jetzt haben wir schöne Link Hints.
+        - **Erklärung**: Die Default Gradients sehen nicht zeitgemäß gut aus. Jetzt haben wir schönere Link Hints.
 
 
 ### Vimium auf Seite deaktivieren:
