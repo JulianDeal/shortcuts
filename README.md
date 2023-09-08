@@ -113,8 +113,9 @@ Beim letzten COmmand lohnt es sich, oft genutzte Programme an die Taskleiste anz
 - **File öffnen und suchen:** `Strg + P` (mehrmals: Files schnell wechseln)
 - **Kommando-Palette:** `Strg + Shift + P`
 - **Terminal:** ``Strg + Shift + ` ``
-- **Scrollen**: `Strg + Pfeil(U/D)`
-- **Mehrere Cursor**: `Strg + Alt + Pfeil(U/D)` || `Alt + Klick`
+- **Scrollen:**: `Strg + Pfeil(U/D)`
+- **Mehrere Cursor:** `Strg + Alt + Pfeil(U/D)` || `Alt + Klick`
+- **Cursor hinter gleiche Variable:** `Strg + D`
 
 
 ### Seitenleiste
