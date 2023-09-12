@@ -45,6 +45,8 @@ Ergänzungen sind herzlich willkommen!
 - **Umbenennen:** `F2`
 - **Löschen (Papierkorb)**: `Entf`
 - **Löschen (permanent)**: `Shift + Entf`
+- **Eigenschaften**: `Alt + Enter`
+- **Vorschau**: `Alt + P`
 
 ### Sonstiges
 - **Einstellungen:** `Win + I`
