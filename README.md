@@ -227,19 +227,21 @@ Hier ein Ausschnitt (Achtung, case sensitive!):
 - **Scrollen:** `j`, `k`
 - **Schnell scrollen:** `d`, `u`
 - **Link aufrufen:** `f`
+- **Reload** `r`
 - **Zurück/Vor:** `H`, `L`
 - **Oberstes Eingabefeld fokussieren**: `gi`
 - **Anfang Seite:** `gg`
 - **Ende Seite:** `G`
 - **Voriger/Nächster Tab:** `J`, `K`
+- **Tab öffnen:** `t`
+- **Geshlossenen Tab wieder öffnen:** `X`
+- **Tab schließen:** `x`
 - **Tab verschieben:** `<<`, `>>`
+- **Tab duplizieren**: `yt`
+- **Tab suchen**: `T` (Alleine dieses Feature wäre schon eine eigene Erweiterung wert)
 - **Insert Mode** (alle Tasten an Website weitergeben): `i`
 - **Eingabe abbrechen**: `<Esc>`
-- **Suchen:** `/` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx!)
-- **Reload Tab:** `r`
-- **Tab schließen:** `x`
-- **Geshlossenen Tab wieder öffnen:** `X`
-- **Tab duplizieren**: `yt`
+- **Suchen:** `/` (nach `Enter` mit `n` und `N` weiter; unterstützt RegEx (siehe Doku))
 
 
 Alle Commands sind auch multiplizierbar:
