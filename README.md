@@ -280,7 +280,7 @@ Klick auf `Vimium-Logo` -> `Options`
             background: #FFF785;
         }
         ```
-        - **Erklärung**: Die Default Gradients sehen nicht zeitgemäß gut aus. Jetzt haben wir schönere Link Hints.
+        - **Erklärung**: Die Styles der Link Hints sehen mMn. nicht mehr zeitgemäß gut aus. Jetzt haben wir schönere Link Hints.
 
 
 ### Vimium auf einer bestimmten Seite deaktivieren:
