@@ -47,6 +47,13 @@ Ergänzungen sind herzlich willkommen!
 - **Löschen (permanent)**: `Shift + Entf`
 - **Eigenschaften**: `Alt + Enter`
 - **Vorschau**: `Alt + P`
+- **Office 365**: `Strg + Shift + Alt + Win + …`
+  - `… + O`: Outlook
+  - `… + P`: PowerPoint
+  - `… + W`: Word
+  - usw. 
+  - leider auch `… + L`
+
 
 ### Sonstiges
 - **Einstellungen:** `Win + I`
@@ -276,10 +283,11 @@ Klick auf `Vimium-Logo` -> `Options`
         - **Erklärung**: Die Default Gradients sehen nicht zeitgemäß gut aus. Jetzt haben wir schönere Link Hints.
 
 
-### Vimium auf Seite deaktivieren:
+### Vimium auf einer bestimmten Seite deaktivieren:
 
-Auf manchen Seiten braucht man die Tastatur und kann auf Vimium verzichten, (z. B. Spiele), daher:
+Auf manchen Seiten braucht man die Tastatur und kann auf Vimium verzichten, (z. B. Spiele oder andere interkative Apps), daher:
 - Klick auf Vimium-Logo
-- 'Save Changes'
+- 'Exclude Vimium keys on this page'
+- 'Save changes'
 
 Nun ist die Seite geblacklistet und ihr könnt sie ganz normal nutzen.
